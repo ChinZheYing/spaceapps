@@ -1,0 +1,7 @@
+populateItems("cardview-parent", "Environmental Advisories", "Includes Weather/ Climate Advisories", "EnvironmentalAdvisories/weather-climate_advisories.html", "../../Images/environmental_advisories.jpg");
+populateItems("cardview-parent", "Atmosphere", "Includes Aerosols & Air Quality", "Atmosphere/meta_atmosphere.html", "../../Images/atmosphere.jpg");
+populateItems("cardview-parent", "Climate Indicator", "Includes Atmospheric/ Ocean Indicator & Cryospheric Indicator", "ClimateIndicator/meta_climate_indicator.html", "../../Images/climate_indicator.jpg");
+populateItems("cardview-parent", "Human Dimension", "Includes Environmental Impact", "HumanDimension/environmental_impact.html", "../../Images/human_dimension.jpg");
+populateItems("cardview-parent", "Oceans", "Includes Ocean Temperature & Sea Surface Topography", "Oceans/meta_oceans.html", "../../Images/oceans.jpg");
+populateItems("cardview-parent", "Solid Earth", "Includes Earth Gases/ Liquids", "SolidEarth/earth_gases-liquids.html", "../../Images/solid_earth.jpg");
+populateItems("cardview-parent", "Terrestrial Hydrosphere", "Includes Glaciers/ Ice Sheets, Snow/ Ice, Surface Water & Water Quality/ Water Chemistry", "TerrestrialHydrosphere/meta_terrestrial_hydrosphere.html", "../../Images/terrestrial_hydrosphere.jpg");

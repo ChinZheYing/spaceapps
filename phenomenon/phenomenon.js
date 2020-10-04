@@ -1,0 +1,3 @@
+populateItems("cardview-parent","Global Warming","Info of global warming and related EarthData. Includes Environmental Advisories, Atmosphere, Climate Indicator, Human Dimension, Oceans, Solid Earth & Terrestrial Hydrosphere.", "globalwarming/globalwarming.html","../../Images/globalwarming.jpg");
+
+populateItems("cardview-parent","Acid Rain","Info of acid rain and related EarthData. Includes Environmental Advisories, Human Dimension, Land Surface, Oceans & Solid Earth.", "acidrain/acidrain.html","../../Images/acidrain.jfif");

@@ -1,0 +1,1 @@
+populateItems("cardview-parent", "Weather/ Climate Advisories", "Includes Present Weather, Air Quality & Weather Forecast.", "meta_weather-climate_advisories.html", "../../../Images/environmental_advisories.jpg");

@@ -1,0 +1,4 @@
+populateItems("cardview-parent","Aerosols","You will learn all about Aerosols here.", "Aerosols/aerosols.html","../../Images/aerosol.jpg");
+populateItems("cardview-parent","Air Quality","Look into the quality of air and atmosphere for a better understanding about the environment.", "Air Quality/air_quality.html","../../Images/air_quality.jpg");
+populateItems("cardview-parent","Altitude","Info of altitude, learning about the air properties at different height.", "Altitude/altitude.html","../../Images/altitude.jpg");
+populateItems("cardview-parent","Atmospheric Electricity","Info of ions and particles in the atmosphere which contributes to the electricity.", "Atmospheric Electricity/atmospheric_electricity.html","../../Images/atmospheric_electricity.jpg");

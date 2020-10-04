@@ -1,0 +1,5 @@
+populateItems("cardview-parent", "Environmental Advisories", "Includes Weather/ Climate Advisories", "EnvironmentalAdvisories/weather-climate_advisories.html", "../../Images/environmental_advisories.jpg");
+populateItems("cardview-parent", "Human Dimension", "Includes Environmental Impact", "HumanDimension/environmental_impact.html", "../../Images/human_dimension.jpg");
+populateItems("cardview-parent", "Land Surface", "Includes Erosion/ Sedimentation & Soil", "LandSurface/meta_land_surface.html", "../../Images/land_surface.jpg");
+populateItems("cardview-parent", "Oceans", "Includes Aquatic Science & Ocean Chemistry", "Oceans/meta_oceans.html", "../../Images/oceans.jpg");
+populateItems("cardview-parent", "Solid Earth", "Includes Earth Gases/ Liquids", "SolidEarth/earth_gases-liquids.html", "../../Images/solid_earth.jpg");
